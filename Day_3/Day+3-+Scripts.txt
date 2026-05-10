@@ -11,3 +11,5 @@ insert into customer_orders values(1,100,cast('2022-01-01' as date),2000),(2,200
 
 
 select * from customer_orders;
+
+Find Everyday New customer are comming to shop
